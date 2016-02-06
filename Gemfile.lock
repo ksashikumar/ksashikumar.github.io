@@ -138,3 +138,4 @@ PLATFORMS
 DEPENDENCIES
   bourbon
   github-pages
+  jemoji
